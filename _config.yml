@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "QingDao University BDA&CV Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
